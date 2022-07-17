@@ -1,0 +1,6 @@
+    phlegeth = reino de informacion
+    bug = ir
+    grah'n = Lo perdido/larva
+    atg	= Firmar(contratar)/aceptar
+    acefalo
+    #0959A8
