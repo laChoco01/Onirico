@@ -1,0 +1,29 @@
+p::first-line{
+    background-color: #0959A8;
+    border: solid;
+}
+#ad{
+    padding: 1%;
+    color: antiquewhite;
+}
+body{
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 1%;
+    font-family: 'Kanit', sans-serif;
+    text-shadow: 2px 2px 3px #024A86;
+}
+ul li::before{
+    width: 1%; 
+    content: ":D  °";
+    display: inline-block;
+}
+h1,h2,h3,h4{
+    text-align: center;
+}
+div{
+    padding 1%;
+    background-color: #0959A8;
+    border: 5px groove whitesmoke;
+    margin: 10px;
+}
