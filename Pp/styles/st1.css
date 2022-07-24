@@ -6,7 +6,7 @@ p::first-line{
     padding: 1%;
     color: antiquewhite;
 }
-body{
+html{
     background-color: blue;
     color: whitesmoke;
     border-radius: 1%;
@@ -22,7 +22,7 @@ h1,h2,h3,h4{
     text-align: center;
 }
 div{
-    padding 1%;
+    padding: 1%;
     background-color: #0959A8;
     border: 5px groove whitesmoke;
     margin: 10px;
